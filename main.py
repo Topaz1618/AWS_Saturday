@@ -14,7 +14,7 @@ def test_demo():
 
 
 def test_func():
-    print("Hello Topaz!")
+    print("Hello Topaz")
 
 
 # Press the green button in the gutter to run the script.
